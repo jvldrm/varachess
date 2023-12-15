@@ -1,5 +1,5 @@
 
-![chess](https://github.com/jvldrm/varachess/assets/53885753/51eb8dbb-f630-4535-ad90-f066d2187b0a)
+![chess2](https://github.com/jvldrm/varachess/assets/53885753/1cdff7e7-556f-487c-8106-86b2ff593a87)
 
 # varachess
 
