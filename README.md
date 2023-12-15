@@ -1,3 +1,6 @@
+
+![chess](https://github.com/jvldrm/varachess/assets/53885753/51eb8dbb-f630-4535-ad90-f066d2187b0a)
+
 # varachess
 
 Varachess provides a new experience in the game of chess, giving an incentive to the users of the dapp, that is, they get a reward for playing and are referred to their friends. As well as tools to improve strategy, anticipate movements (saving time) and many more possibilities to make the experience more fun.
